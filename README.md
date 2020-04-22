@@ -9,12 +9,7 @@
 The name just stuck along.
 </p>
 
-<br />
-<br />
-
 ## The goal
-<br />
-
 <p>
 The goal of AnoGReS will be provide developers with a minimal platform to kickstart their applications without having to write some basic code (front and back-end) over and over again.
 </p>
@@ -22,6 +17,6 @@ The goal of AnoGReS will be provide developers with a minimal platform to kickst
 <br />
 
 <p>
-As an initial goal, I plan to provide developers with a single minimal, material theme based cross-platform web app that can be adapted to the developer's liking.<br />
+As an initial goal, I plan to provide developers with a single minimal, material theme based responsive web app that can be adapted to the developer's liking.<br />
 Other developments may follow later.
 </p>
