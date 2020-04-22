@@ -3,7 +3,7 @@
     A Minimal Web-App Platform, so that you don't have to start over again.
 </p>
 
-##Introduction
+## Introduction
 <p>
 <b>A</b>no<b>GR</b>e<b>S</b>, short for Anonymous Greivance Reporting System, began its journey as a simple application intended for a university course submittion. However after a little bit of revaluation I decided to turn it into a little more ambitious project.<br/>
 The name just stuck along.
@@ -12,8 +12,7 @@ The name just stuck along.
 <br />
 <br />
 
-##The goal
-<hr>
+## The goal
 <br />
 
 <p>
