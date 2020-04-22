@@ -1,0 +1,68 @@
+.Primary
+{
+    background: #CFD8DC;
+    color: #212121;
+}
+
+.Primary-Background
+{
+    background: #CFD8DC;
+}
+
+.Primary-Text
+{
+    color: #212121;
+}
+
+.Secondary
+{
+    background: #607D8B;
+    color: #212121;
+}
+
+.Secondary-Background
+{
+    background: #607D8B;
+}
+
+.Secondary-Text
+{
+    color: #212121;
+}
+
+.Accent
+{
+    background: #FFC107;
+    color: #FFFFFF;
+}
+
+.Accent-Background
+{
+    background: #FFC107;
+}
+
+.Accent-Text
+{
+    color: #FFC107;
+}
+
+hr
+{
+    border-color: #FFFFFF;
+    width: 90%;
+}
+
+.Primary hr
+{
+    border-color: #BDBDBD;
+}
+
+.Secondary hr
+{
+    border-color: #757575;
+}
+
+a, a:visited, a:hover
+{
+    color: #FFC107;
+}

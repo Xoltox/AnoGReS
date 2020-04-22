@@ -1,0 +1,33 @@
+html body
+{
+    background: #455A64;
+    color: #FFFFFF;
+}
+
+.Logo
+{
+    text-align: center;
+}
+
+.Footer
+{
+    z-index: 999;
+    position: fixed;
+    bottom: 0;
+}
+
+
+/*------------------- BOOTSTRAP OVERRIDES -------------------*/
+
+input
+{
+    -webkit-appearance:none!important;
+    box-shadow: none!important;
+    -moz-box-shadow: none!important;
+    -webkit-box-shadow: none!important;
+}
+
+input[type=button], button
+{
+    border: none;
+}
